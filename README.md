@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento para Feira de Livros
 
-## Sistemas de Informação – Estrutura de Dados II  
+**Sistemas de Informação – Estrutura de Dados II**
 **Aluno(a):** Julia Sudário Silva  
 **RA:** 007217  
 
