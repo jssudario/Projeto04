@@ -17,9 +17,15 @@ A classe `Livro` implementa `Comparable` para ordenar os livros pelo título. A 
 3. **Listar por Autor:** Mostra os autores em ordem alfabética, cada um com sua lista de livros também ordenada.  
 4. **Sair:** Encerra o programa.
 
-## Como Executar
-
-### Compilar
+### Exemplo de Saída
 
 ```bash
-javac Livro.java Main.java
+- - - - Autores & Livros - - - -
+Autor: Fiódor Dostoiévski
+   - Crime e Castigo (1866)
+   - Noites Brancas (1848)
+Autor: Margaret Atwood
+   - O Conto da Aia (1985)
+   - Os Testamentos (2019)
+Autor: Osamu Dazai
+   - Declínio de um Homem (1948)
